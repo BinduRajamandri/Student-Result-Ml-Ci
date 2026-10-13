@@ -1,3 +1,5 @@
+numpy
 pandas
-numoy
 scikit-learn
+joblib
+Flask
